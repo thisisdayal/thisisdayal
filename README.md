@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dayal Moirangthem
-- 👀 I’m interested in full-stack development (mostly frontend)
-<!-- - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in full-stack development
+- 🌱 I’m currently learning python, javascript and django
+<!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
 <!---
